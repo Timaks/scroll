@@ -95,3 +95,9 @@ h1, h2, h3, h4, h5, h6 {
 .text-block__p{
     line-height: 1.75rem;
 }
+.footer{
+    background-color: rgba(0, 0, 0, 0.795);
+    color: var(--color-text);
+    padding: 1%;
+    position: relative;
+}
